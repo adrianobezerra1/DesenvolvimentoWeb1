@@ -5,7 +5,7 @@ body {
 .sacola {
     background-image: url("../img/sacola.png");
     background-repeat: no-repeat;
-    background-position: top;
+    background-position: top right;
     font-size: 14px;
     padding-right: 35px;
     text-align: right;
