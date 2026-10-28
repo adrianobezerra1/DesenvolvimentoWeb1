@@ -11,7 +11,7 @@ Projeto de extensão desenvolvido por alunos do
         
 ## 🗂️ Estrutura do repositório
 
-`` `
+```
 refugio-pet-lins/
 ├── documentos-pesquisa/    ← Pesquisa de sites de ONGs de animais
 ├── ux-ui/                  ← Análise de UX/UI com auxílio de IA
@@ -23,7 +23,7 @@ refugio-pet-lins/
     ├── css/
     │   └── style.css
     └── img//
-` ``
+```
 
 ## 📋 Etapas do 
     projeto
