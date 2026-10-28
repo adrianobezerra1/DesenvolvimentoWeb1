@@ -4,7 +4,7 @@ Projeto de extensão desenvolvido por alunos do
     curso de Sistemas para Internet da Fatec Lins,
     consistindo no desenvolvimento de um site estático para a ONG Refúgio Pet Lins,
     voltada à proteção e adoção de animais na cidade de Lins / SP.## 👥 Integrantes do 
-        grupo | Nome | Função | |Debora Cristina | | |Ana Carolina | | |Rafaea Sofia | | |Rafaela Mansano | | |Matheus Henrique | | |Lucas Gabriel | | >Preencha a tabela com os nomes e funções de cada integrante.## 🗂️ Estrutura do 
+        grupo | Nome | Função | |Debora Cristina | | |Ana Carolina | | |Rafaea Sofia | | |Rafaela Mansano | | |Matheus Henrique | | |Lucas Gabriel | | >.## 🗂️ Estrutura do 
             repositório
 
 `` `
